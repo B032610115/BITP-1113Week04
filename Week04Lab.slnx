@@ -3,5 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Week04Lab/Week04Lab.vcxproj" />
+  <Project Path="hostel gate from flowchart/hostel gate from flowchart.vcxproj" Id="ae12da5e-8e02-4908-b9dd-0f6e092fe284" />
+  <Project Path="librart fine debugged/librart fine debugged.vcxproj" Id="8de5b625-3d60-4fbf-8798-342400f4e928" />
+  <Project Path="parcel surcharge (one-way if)/parcel surcharge (one-way if).vcxproj" Id="aa65356e-a880-4624-843d-81ef9da42bf3" />
+  <Project Path="toll gate (ife. . .lse)/toll gate (ife. . .lse).vcxproj" Id="aeebd65a-1679-4d95-b996-c4c2b46d77a1" />
+  <Project Path="Week04Lab/Week04Lab.vcxproj" Id="c36143f6-c382-4ea1-99ed-f18bee8d4652" />
 </Solution>
